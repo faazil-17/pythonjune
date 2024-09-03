@@ -1,0 +1,19 @@
+kerala 2018 14
+uttarakkand 2018 15
+himachalprathesh 2018 10
+kerala 2019 12
+uttarakkand  2019 5
+himachalprathesh 2019 4
+kerala 2020 66
+uttarakkand 2020 6
+himachalprathesh 2020 8 
+kerala 2021 35
+himachalprathesh 2021 37 
+maharshtra 2021 117
+uttarakkand 2021 4
+karnataka 2021 0
+kerala 2022 3
+uttarakkand 2022 1
+himachalprathesh 2022 2
+
+
